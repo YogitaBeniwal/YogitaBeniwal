@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogita Beniwal</h1>
 <h3 align="center">🌟 Passionate about building innovative solutions, solving problems, and exploring the world of technology.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/15ITdDxkkyBnBXlwUesI_0ujLHXPFceGu/view?usp=sharing">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogitabeniwal&label=Profile%20views&color=0e75b6&style=flat" alt="yogitabeniwal" /> </p>
 
 - 🎓 Computer Science Student at Symbiosis International University [https://www.sitpune.edu.in/](https://www.sitpune.edu.in/)
