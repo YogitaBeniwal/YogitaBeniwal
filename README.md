@@ -54,6 +54,32 @@
   </a>
 </div>
 
+<!-- ANIMATED ROCKET -->
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+<!-- GITHUB STATS -->
+<div align="center">
+  <a href="#">
+    <img src="https://bad-apple-github-readme.vercel.app/api?username=Abhishek-2502&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt=" ">
+  </a>
+</div>
+
+<!-- LANGUAGES USED -->
+<!-- STREAK -->
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Abhishek-2502&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt=" ">
+    <img src="https://streak-stats.demolab.com/?user=Abhishek-2502&count_private=true&theme=blue-green&title_color=00b3ff" alt=" ">
+  </a>
+</div>
+
+<!-- CONTRIBUTION SNAKE -->
+<a href=#><img src="contributions.svg"></a>
+
+<!-- BOTTOM FLOWING ANIMATION -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogitabeniwal&show_icons=true&locale=en&layout=compact" alt="yogitabeniwal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogitabeniwal&show_icons=true&locale=en" alt="yogitabeniwal" /></p>
