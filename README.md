@@ -35,7 +35,7 @@
 <div align="center">
   <a href="#">
 <!--     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,css,js,react,tailwindcss,express,nodejs,bootstrap,figma,django,flask" alt="My Skills"> -->
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="My Skills">
     <img src="https://reactnative.dev/img/header_logo.svg", width=50, height=45, alt="My Skills">
   </a>
 </div>
@@ -43,7 +43,7 @@
 <h3 align="center">DevOps</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=md,git,github,linux,aws" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,aws" alt="My Skills">
   </a>
 </div>
 
