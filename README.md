@@ -75,10 +75,3 @@
 
 <!-- CONTRIBUTION SNAKE -->
 <a href=#><img src="contributions.svg"></a>
-
-<!-- BOTTOM FLOWING ANIMATION -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogitabeniwal&show_icons=true&locale=en" alt="yogitabeniwal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogitabeniwal&" alt="yogitabeniwal" /></p>
