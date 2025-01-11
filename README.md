@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogitabeniwal&label=Profile%20views&color=0e75b6&style=flat" alt="yogitabeniwal" /> </p>
 
-- 🎓 Computer Science Student at Symbiosis International University [https://www.sitpune.edu.in/](https://www.sitpune.edu.in/)
-
 - 🔗 Connect with me on Socials: [https://linktr.ee/yogitabeniwal](https://linktr.ee/yogitabeniwal)
-
-- 👨‍💻 All of my projects are available at [https://github.com/YogitaBeniwal?tab=repositories](https://github.com/YogitaBeniwal?tab=repositories)
 
 - 📫 How to reach me **yogitabeniwal2004@gmail.com**
 
